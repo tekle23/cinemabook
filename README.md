@@ -10,7 +10,7 @@ copy '.env.example' file and paste on top of all folders and rename it as '.env'
 
 ## How to Use
 
-Run 'php artisan serve' open internet browse and write 'http://127.0.0.1:8000/' on url and search it click register after registeration on database go to user table and edit 'is_Admin' column to '1' unless you did'nt do this you will not get admin privilage
+Run 'php artisan serve' open internet browse and write 'http://127.0.0.1:8000/' on url and search it click register after registeration on database go to user table and edit 'is_Admin' column to '1' unless you didn't do this you will not get admin privilage
 
 
 ## License
