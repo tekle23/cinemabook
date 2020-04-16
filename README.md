@@ -2,14 +2,11 @@
 ## About cinemabook
 
 This project is developed as evalution for software engineer posted by Hello Market company
-
--developed using php laravel framework and mysql
+developed using php laravel framework and mysql
 
 ## How to configure cinemabook
 
--copy .env.example and paste on top of all folders and rename it as .env
--edit enviroment variable for database name only change DB_DATABASE=laravel into DB_DATABASE=cinemabooking
--leave the rest as it is
+-copy '.env.example' and paste on top of all folders and rename it as '.env' edit enviroment variable for database name only and change 'DB_DATABASE=laravel' into 'DB_DATABASE=cinemabooking' leave the rest as it is.
 
 ## Laravel Sponsors
 
