@@ -1,7 +1,7 @@
 
 ## About cinemabook
 
-This project is developed as evalution for software engineer posted by Hello Market company
+This project is developed as evalution for software engineer posted by HellooMarket company
 developed using php laravel framework and mysql
 
 ## How to configure cinemabook
@@ -15,4 +15,4 @@ Run 'php artisan serve' open internet browse and write 'http://127.0.0.1:8000/' 
 
 ## License
 
-The cinemabook project software licensed under the HelloMarket license.
+The cinemabook project software licensed under the HellooMarket license.
