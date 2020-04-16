@@ -6,7 +6,7 @@ developed using php laravel framework and mysql
 
 ## How to configure cinemabook
 
-copy '.env.example' file and paste on top of all folders and rename it as '.env' edit enviroment variable for database name only and change 'DB_DATABASE=laravel' into 'DB_DATABASE=cinemabooking' leave the rest as it is. create database and name it as 'cinemabooking'. run 'php artisan migrate' on terminal
+copy '.env.example' file and paste on top of all folders and rename it as '.env' Edit enviroment variable for database name only and change 'DB_DATABASE=laravel' into 'DB_DATABASE=cinemabooking' leave the rest as it is. create database and name it as 'cinemabooking'. run 'php artisan migrate' on terminal
 
 ## How to Use
 
